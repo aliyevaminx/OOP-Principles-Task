@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amin\\Desktop\\C#\\Code-OOP-Tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05443792-9B65-4510-BD61-80237D593AC7}|..\\OOP-Task8\\OOP-Task8.csproj|c:\\users\\amin\\desktop\\c#\\oop-task8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 187,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amin\\Desktop\\C#\\OOP-Task8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\OOP-Task8\\Program.cs",
+              "ToolTip": "C:\\Users\\Amin\\Desktop\\C#\\OOP-Task8\\Program.cs",
+              "RelativeToolTip": "..\\OOP-Task8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:02:48.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

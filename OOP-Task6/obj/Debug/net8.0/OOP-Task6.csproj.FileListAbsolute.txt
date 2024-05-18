@@ -1,0 +1,14 @@
+C:\Users\Amin\Desktop\C#\OOP-Task6\bin\Debug\net8.0\OOP-Task6.exe
+C:\Users\Amin\Desktop\C#\OOP-Task6\bin\Debug\net8.0\OOP-Task6.deps.json
+C:\Users\Amin\Desktop\C#\OOP-Task6\bin\Debug\net8.0\OOP-Task6.runtimeconfig.json
+C:\Users\Amin\Desktop\C#\OOP-Task6\bin\Debug\net8.0\OOP-Task6.dll
+C:\Users\Amin\Desktop\C#\OOP-Task6\bin\Debug\net8.0\OOP-Task6.pdb
+C:\Users\Amin\Desktop\C#\OOP-Task6\obj\Debug\net8.0\OOP-Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amin\Desktop\C#\OOP-Task6\obj\Debug\net8.0\OOP-Task6.AssemblyInfoInputs.cache
+C:\Users\Amin\Desktop\C#\OOP-Task6\obj\Debug\net8.0\OOP-Task6.AssemblyInfo.cs
+C:\Users\Amin\Desktop\C#\OOP-Task6\obj\Debug\net8.0\OOP-Task6.csproj.CoreCompileInputs.cache
+C:\Users\Amin\Desktop\C#\OOP-Task6\obj\Debug\net8.0\OOP-Task6.dll
+C:\Users\Amin\Desktop\C#\OOP-Task6\obj\Debug\net8.0\refint\OOP-Task6.dll
+C:\Users\Amin\Desktop\C#\OOP-Task6\obj\Debug\net8.0\OOP-Task6.pdb
+C:\Users\Amin\Desktop\C#\OOP-Task6\obj\Debug\net8.0\OOP-Task6.genruntimeconfig.cache
+C:\Users\Amin\Desktop\C#\OOP-Task6\obj\Debug\net8.0\ref\OOP-Task6.dll

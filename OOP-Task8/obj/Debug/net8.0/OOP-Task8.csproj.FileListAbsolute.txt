@@ -1,0 +1,14 @@
+C:\Users\Amin\Desktop\C#\OOP-Task8\bin\Debug\net8.0\OOP-Task8.exe
+C:\Users\Amin\Desktop\C#\OOP-Task8\bin\Debug\net8.0\OOP-Task8.deps.json
+C:\Users\Amin\Desktop\C#\OOP-Task8\bin\Debug\net8.0\OOP-Task8.runtimeconfig.json
+C:\Users\Amin\Desktop\C#\OOP-Task8\bin\Debug\net8.0\OOP-Task8.dll
+C:\Users\Amin\Desktop\C#\OOP-Task8\bin\Debug\net8.0\OOP-Task8.pdb
+C:\Users\Amin\Desktop\C#\OOP-Task8\obj\Debug\net8.0\OOP-Task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amin\Desktop\C#\OOP-Task8\obj\Debug\net8.0\OOP-Task8.AssemblyInfoInputs.cache
+C:\Users\Amin\Desktop\C#\OOP-Task8\obj\Debug\net8.0\OOP-Task8.AssemblyInfo.cs
+C:\Users\Amin\Desktop\C#\OOP-Task8\obj\Debug\net8.0\OOP-Task8.csproj.CoreCompileInputs.cache
+C:\Users\Amin\Desktop\C#\OOP-Task8\obj\Debug\net8.0\OOP-Task8.dll
+C:\Users\Amin\Desktop\C#\OOP-Task8\obj\Debug\net8.0\refint\OOP-Task8.dll
+C:\Users\Amin\Desktop\C#\OOP-Task8\obj\Debug\net8.0\OOP-Task8.pdb
+C:\Users\Amin\Desktop\C#\OOP-Task8\obj\Debug\net8.0\OOP-Task8.genruntimeconfig.cache
+C:\Users\Amin\Desktop\C#\OOP-Task8\obj\Debug\net8.0\ref\OOP-Task8.dll
